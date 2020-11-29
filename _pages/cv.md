@@ -11,26 +11,36 @@ redirect_from:
 
 Education
 ======
+* MSc in Computing Science, University of Glasgow, 2020
+  * Graduated with a Distinction and GPA of 20.4 out of 22
+  * Received the Masters CS+ Class Prize for the best student in all CS+ programmes in Session 2019-2020
 * BSc in Computer Science, University of St Andrews, 2019
-...
+  * Graduated with a First and a GPA of 17.6 out of 20
+* International Baccalaureate (IB) Diploma of grade 40 _(equals German Abitur of 1,3)_, 2014, Frankfurt am Main, Germany
+* International General Certificate of Secondary Education (IGCSE), 2012, Frankfurt am Main, Germany
 
 Work experience
 ======
-* Summer 2015: x
-  * Company
-  * Duties included: x
-  * Supervisor: x
+* Since October 2020: Full-Stack Software Developer
+  * Company: N-SIDE, Louvain-La-Neuve, Belgium
+  * Responsibilities: Working with the Edge Team on a web-application both front- and backend 
+  * Impact: N-SIDE optimises the R&D processes of pharma companies, speeding up the clinical trials of new drugs and vaccines. This reduces greenhouse gases and ensures patients receive treatments faster.
 
-...
+* June - Aug. 2018: Internship in web-development and big-data
+  * Company: Wurm Beteiligungs GmbH, Remscheid, Germany
+  * Areas: Front- and backend web-development, big-data for automation of refrigeration systems
+  * Impact: Wurm refrigeration controllers bring IoT to supermarkets and food-storage systems, allowing remote supervision of the systems' health and early prediction of outages.
+
+* June - Sept. 2017: Internship in Virtual and Augmented Reality
+  * ...
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Scala, Java, Python, Rust, C, C#, F#, Haskell, JavaScript
+* Data-Science with Python and R
+* Tools: Visual Studio, JetBrains IDEs, Linux, MS Office, version control with Git and Mercurial. Unity3D, ROS (robot operating system
+* Data management and manipulation with MySQL, PostgreSQL and Hadoop
+* Hardware, software and network administration
 
 Publications
 ======
@@ -38,18 +48,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Community Service and Projects
 ======
 * ...
+
+

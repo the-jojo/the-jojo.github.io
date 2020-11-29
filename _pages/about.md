@@ -10,13 +10,13 @@ redirect_from:
 
 About Me
 ======
- - BSc in [Computer Science from the University of St Andrews](https://www.st-andrews.ac.uk/computer-science/), Scotland. Graduated with a First and GPA of 17.6 out of 20.
- - MSc in [Computing Science from the University of Glasgow](https://www.gla.ac.uk/schools/computing/), Scotland. Graduated with Distinction and a GPA of 20.4 out of 20.
- - Received the Masters CS+ Class Prize for the best student in all CS+ programmes in Session 2019-2020, University of Glasgow, Scotland
+ - Completed BSc and MSc degrees in Computer Science at [the University of St Andrews](https://www.st-andrews.ac.uk/computer-science/) and [the University of Glasgow](https://www.gla.ac.uk/schools/computing/), Scotland with First and Distinction.
+ - Both thesis covered Mobile _SpiderBUG - Robot Navigation using Dynamic Webs_, a novel path-finding algorithm based on the TangentBUG algorithm. Available [here](https://github.com/the-jojo/SpiderBUG)
  - Working as full-time software developer at [N-SIDE](https://www.n-side.com/) since October 2020, Louvain-La-Neuve, Belgium
 
 Recent News
 ======
+ - Received the Masters CS+ Class Prize for the best student in all CS+ programmes in Session 2019-2020, University of Glasgow, Scotland
  - Personal website is now up and running! Check it out at [the-jojo.github.io](https://the-jojo.github.io/)
 
 
