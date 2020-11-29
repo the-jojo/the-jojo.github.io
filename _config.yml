@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "BSc, MSc in Computer Science; Software Developer in Belgium"
   location         : "Brussels, Belgium"
-  employer         : "https://www.n-side.com"
+  employer         : "<a href='https://www.n-side.com'>N-SIDE</a>"
   pubmed           : 
   googlescholar    : 
   email            : "johannes.weck@gmail.com"
