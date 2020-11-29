@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Johannes Weck"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "BSc, MSc in Computer Science; Software Developer in Belgium"
   location         : "Brussels, Belgium"
-  employer         : "N-SIDE"
+  employer         : "https://www.n-side.com"
   pubmed           : 
   googlescholar    : 
   email            : "johannes.weck@gmail.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "the-jojo"
   google_plus      :
   keybase          :
   instagram        :
