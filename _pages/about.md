@@ -17,6 +17,6 @@ About Me
 Recent News
 ======
  - Received the Masters CS+ Class Prize for the best student in all CS+ programmes in Session 2019-2020, University of Glasgow, Scotland
- - Personal website is now up and running! Check it out at [the-jojo.github.io](https://the-jojo.github.io/)
+ - Personal website is in development! Check it out at [the-jojo.github.io](https://the-jojo.github.io/)
 
 

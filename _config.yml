@@ -15,7 +15,7 @@ url                      : https://the-jojo.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "the-jojo/the-jojo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Johannes Weck"
   avatar           : "profile.jpg"
-  bio              : "BSc, MSc in Computer Science; Software Developer in Belgium"
+  bio              : "BSc & MSc in Computer Science; Software Developer in Belgium"
   location         : "Brussels, Belgium"
-  employer         : "<p>Employer: <a href='https://www.n-side.com'>N-SIDE</a></p>"
+  employer         : "<a href='https://www.n-side.com'>N-SIDE</a>"
   pubmed           : 
   googlescholar    : 
   email            : "johannes.weck@gmail.com"
